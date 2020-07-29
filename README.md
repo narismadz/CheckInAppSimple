@@ -21,13 +21,14 @@ This one is the starting template for learning how to use map APIs
 ## 3 Create SPO List name Location_Report using Power Automate (You need to create your SharePoint Site first)
   - Go to https://flow.microsoft.com/manage/
   - Upload Flow template (CreateSPOList) as new and fix other dependencies
-  - Edit the flow and input your SharePoint Site URL (Initialize variable)
+  - Edit the flow and input your SharePoint Site URL (Initialize variable) (Pic1)
   - Run the flow to create SPO List
 
 ## 4 Create Power Apps via template upload
   - Go to https://make.powerapps.com/
   - Import canvas app using as new and fix other dependencies
   - Edit this app
-  - At data tab, edit SPO site to target your SPO List
-  - At data tab, edit Bing Maps to insert your Own Key
-  - Go to first screen app edit the image properties and input your Google API key 
+  - Go to first screen app edit the image properties and input your Google API key (Pic2)
+  - At data tab, edit SPO site to target your SPO List (Pic)
+  - At data tab, edit Bing Maps to insert your Own Key (Pic)
+  
