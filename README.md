@@ -43,3 +43,8 @@ This one is the starting template for learning how to use map APIs
   ![ADD SPO list2](/images/Pic4.jpg)
   ![Bing API](/images/Pic5.jpg)
   
+** In city field, I hardcoded as "Bangkok" since api not yet support. But you still can get city name in "address" field **
+  ![flow](/images/hardcode.jpg)
+
+  
+  
