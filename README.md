@@ -23,6 +23,8 @@ This one is the starting template for learning how to use map APIs
   - Upload Flow template (CreateSPOList) as new and fix other dependencies
   - Edit the flow and input your SharePoint Site URL (Initialize variable) (Pic1)
   - Run the flow to create SPO List
+  
+  ![flow](/images/Pic1.jpg)
 
 ## 4 Create Power Apps via template upload
   - Go to https://make.powerapps.com/
