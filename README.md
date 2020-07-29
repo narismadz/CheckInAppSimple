@@ -23,6 +23,7 @@ This one is the starting template for learning how to use map APIs
   - Upload Flow template (CreateSPOList) as new and fix other dependencies
   - Edit the flow and input your SharePoint Site URL (Initialize variable) (Pic1)
   - Run the flow to create SPO List
+  - SPO List for this one will name as Location_Report
   
   ![flow](/images/Pic1.jpg)
 
