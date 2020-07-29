@@ -34,3 +34,7 @@ This one is the starting template for learning how to use map APIs
   - At data tab, edit SPO site to target your SPO List (Pic3)
   - At data tab, edit Bing Maps to insert your Own Key (Pic4)
   
+  ![flow](/images/Pic2.jpg)
+  ![flow](/images/Pic3.jpg)
+  ![flow](/images/Pic4.jpg)
+  
