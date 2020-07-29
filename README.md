@@ -18,7 +18,8 @@ This one is the starting template for learning how to use map APIs
  - Sign up using gmail account
  - create project and get map key https://www.bing.com/partners/developers#MapsAPIs
 
-## 3 Create SPO List name Location_Report using Power Automate (You need to create your SharePoint Site first)
+## 3 Create SPO List name Location_Report using Power Automate (CreateSPOList.zip)
+  - You need to create your SharePoint Site first
   - Go to https://flow.microsoft.com/manage/
   - Upload Flow template (CreateSPOList) as new and fix other dependencies
   - Edit the flow and input your SharePoint Site URL (Initialize variable) (Pic1)
@@ -27,7 +28,7 @@ This one is the starting template for learning how to use map APIs
   
   ![flow](/images/Pic1.jpg)
 
-## 4 Create Power Apps via template upload
+## 4 Create Power Apps via template upload (CheckInAppSimple-Location_Report.zip)
   - Go to https://make.powerapps.com/
   - Import canvas app using as new and fix other dependencies
   - Edit this app
