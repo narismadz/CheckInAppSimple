@@ -29,6 +29,6 @@ This one is the starting template for learning how to use map APIs
   - Import canvas app using as new and fix other dependencies
   - Edit this app
   - Go to first screen app edit the image properties and input your Google API key (Pic2)
-  - At data tab, edit SPO site to target your SPO List (Pic)
-  - At data tab, edit Bing Maps to insert your Own Key (Pic)
+  - At data tab, edit SPO site to target your SPO List (Pic3)
+  - At data tab, edit Bing Maps to insert your Own Key (Pic4)
   
