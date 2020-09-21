@@ -47,7 +47,7 @@ This one is the starting template for learning how to use map APIs
 
   ![flow](/images/hardcode.jpg)
   
-**** Update Sep 202O, I'm using PowerApps Formula inorder to extract to provice only just replace "Bangkok" with Left(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result,Len(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result)-5)
+**** Update Sep 2020, I'm using PowerApps Formula inorder to extract to provice only just replace "Bangkok" with Left(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result,Len(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result)-5)
 
 ![flow](/images/hardcode-fixed.jpg)
 
