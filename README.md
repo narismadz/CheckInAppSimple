@@ -17,7 +17,7 @@ This one is the starting template for learning how to use map APIs
  
 ## 2. Get Google Map Key
  - Sign up using gmail account
- - create project and get map key hhttps://www.bingmapsportal.com/
+ - create project and get map key https://developers.google.com/maps/documentation/static-maps/get-api-key (see this link)
   ![googlemap](/images/googlemap.jpg)
 
 ## 3 Create SPO List name Location_Report using Power Automate (CreateSPOList.zip)
