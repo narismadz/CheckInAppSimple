@@ -46,6 +46,12 @@ This one is the starting template for learning how to use map APIs
 **In city field, I hardcoded as "Bangkok" since API doesn't support. But you still can get city name in "address" field**
 
   ![flow](/images/hardcode.jpg)
+  
+**** Update Sep 202O, I'm using PowerApps Formula inorder to extract to provice only just replace "Bangkok" with Left(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result,Len(First(LastN(Split(BingMaps.GetLocationByPoint(Location.Latitude, Location.Longitude).name, ","), 2)).Result)-5)
+
+![flow](/images/hardcode-fixed.jpg)
+
+
 
   
   
