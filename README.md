@@ -4,7 +4,7 @@ This one is the starting template for learning how to use map APIs
 
 - Using SharePoint List to record data
 - Create SPO List using Power Automate (one-time instant flow)
-- Toggle map between Bing map and Google map
+- Toggle map between Bing map and Google map (or Use Bing map only .zip file)
 - Using Bing Map as connector 
 - Bing API for Map feature (sign up and get key here https://www.bingmapsportal.com/) 
 - Bing map reference https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery/get-a-static-map?redirectedfrom=MSDN
@@ -33,6 +33,7 @@ This one is the starting template for learning how to use map APIs
 ## 4 Create Power Apps via template upload (CheckInAppSimple-Location_Report.zip)
   - Go to https://make.powerapps.com/
   - Import canvas app using as new and fix other dependencies
+  - If you want only Bing Map, upload Bing map only .zip file
   - Edit this app
   - Go to first screen app edit the image properties and input your Google API key (Pic2)
   - At data tab, edit SPO site to target your SPO List (Pic3 and Pic4)
